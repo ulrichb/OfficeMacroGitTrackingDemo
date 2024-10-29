@@ -1,5 +1,5 @@
 Attribute VB_Name = "ThisWorkbook"
 Sub HelloInWorkbook()
-    MsgBox "Hello from HelloInWorkbook changed"
+    MsgBox "Hello from HelloInWorkbook"
 End Sub
 
